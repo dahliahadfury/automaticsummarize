@@ -4,3 +4,5 @@ this project is my final task to get bachelor degree on computer science. The ma
 the code can be access thru: peringkasan BM25/final/summarize text-Copy1.ipynb
 
 and the docs thru: Yurdha Fadhila - 165150200111094 - Skripsi.pdf
+
+![](summarize-text.gif)
